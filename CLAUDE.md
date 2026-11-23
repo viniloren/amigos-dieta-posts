@@ -30,6 +30,10 @@ Artes e material dos posts do Instagram @amigos.dieta (Vinicius). Tudo em portug
 ## Publicação
 
 Publicar SEMPRE só depois do "aprovado" do Vinicius na conversa, para os posts daquele dia.
+Pedido do Vinicius: TODA aprovação vem com BOTÃO. Use a ferramenta AskUserQuestion com as opções
+"Aprovado", "Aprovar com ajustes" (ele digita o que mudar) e "Não publicar hoje", logo depois de
+mandar a prévia. Vale para qualquer outra decisão que dependa dele. Só se a ferramenta não existir
+na sessão, pergunte em texto.
 Windsor.ai for Social Media: connector `instagram`, account `17841472503944181`;
 `create_carousel_post` (image_urls, 2 a 10) ou `create_image_post` (image_url), com `caption`.
 Depois de publicar, marcar "Postado" na coluna K da planilha "Calendário de posts – @amigos.dieta"
